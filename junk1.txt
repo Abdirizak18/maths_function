@@ -1,2 +1,0 @@
-jink1>> junk1.txt
-echo jink1
